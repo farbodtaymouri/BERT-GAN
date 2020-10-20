@@ -8,3 +8,7 @@ Dataset for ""Imbalanced dataset"" (https://github.com/clinc/oos-eval/blob/maste
 The data is already split into train/dev/test.
 Please note that In-scope accuracy is measured for 150 indomain intents (not OOS intent). 
 
+If you want to use this code, cite it as:
+
+https://zenodo.org/badge/latestdoi/305672932
+
